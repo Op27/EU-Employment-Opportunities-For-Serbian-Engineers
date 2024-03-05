@@ -5,8 +5,8 @@
 
 ## Contents
 
-1. [Executive Summary](#executive-summary)
-2. [Background](#background)
+1. [Background](#background)
+2. [Analysis](#analysis)
     - [Salary Comparison](#salary-comparison)
     - [Table Description](#table-description)
 3. [List of Job Matching Platforms](#list-of-job-matching-platforms)
@@ -14,11 +14,11 @@
     - [For non-EU job seekers (all programmers)](#for-non-eu-job-seekers-all-programmers)
     - [For non-EU job seekers (junior programmers)](#for-non-eu-job-seekers-junior-programmers)
 
-## Executive Summary
+## Background
 
 Amid the rapidly evolving global technology industry, Serbian software engineers are increasingly exploring opportunities beyond their national borders, notably within the European Union (EU). This trend is motivated by the pursuit of professional advancement and more competitive compensation packages available in the EU. This report provides a brief analysis of the economic benefits and outlines key platforms facilitating the integration of Serbian talent into the European technological sector.
 
-## Background
+## Analysis
 
 This section provides a comparative analysis of salary structures between Serbian software engineers and their counterparts in the European Union, underscoring the economic motivations that drive Serbian professionals towards the EU.
 
