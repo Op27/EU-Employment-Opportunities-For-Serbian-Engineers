@@ -26,7 +26,7 @@ This section provides a comparative analysis of salary structures between Serbia
 
 ### Salary Comparison
 
-This comparative analysis revealed a pronounced disparity in software engineer salaries between Serbia and the selected EU countries. Specifically, Serbia's median annual salary of $58,932 is notably lower compared to its EU counterparts, with Luxembourg leading at a median annual salary of $100,000, followed by Denmark ($95,532), Germany ($86,626), and France ($61,729). This disparity highlights the economic differences within the European tech industry and underscores the financial incentives for Serbian software engineers considering employment in these EU countries. <sup>[[1](#references)][[2](#references)][[3](#references)][[4](#references)][[5](#references)]</sup>
+This comparative analysis revealed a pronounced disparity in software engineer salaries between Serbia and the selected EU countries. Specifically, Serbia's median annual salary of $58,932 is notably lower compared to its EU counterparts, with Luxembourg leading at a median annual salary of $100,000, followed by Denmark ($95,532), Germany ($86,626), and France ($61,729). This disparity highlights the economic differences within the European tech industry and underscores the financial incentives for Serbian software engineers considering employment in these EU countries. <sup>[1](#references)[ 2](#references)[ 3](#references)[ 4](#references)[ 5](#references)</sup>
 
 **Table 1: Salary comparison of programmers**
 
