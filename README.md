@@ -13,6 +13,8 @@
     - [Summary](#summary)
     - [For non-EU job seekers (all programmers)](#for-non-eu-job-seekers-all-programmers)
     - [For non-EU job seekers (junior programmers)](#for-non-eu-job-seekers-junior-programmers)
+    - [For non-EU job seekers (freelancers)](#for-non-eu-job-seekers-freelancers)
+4. [References](#references)
 
 ## Background
 
@@ -24,17 +26,17 @@ This section provides a comparative analysis of salary structures between Serbia
 
 ### Salary Comparison
 
-This comparative analysis revealed a pronounced disparity in software engineer salaries between Serbia and the selected EU countries. Specifically, Serbia's median annual salary of $58,932 is notably lower compared to its EU counterparts, with Luxembourg leading at a median annual salary of $100,000, followed by Denmark ($95,532), Germany ($86,626), and France ($61,729). This disparity highlights the economic differences within the European tech industry and underscores the financial incentives for Serbian software engineers considering employment in these EU countries.
+This comparative analysis revealed a pronounced disparity in software engineer salaries between Serbia and the selected EU countries. Specifically, Serbia's median annual salary of $58,932 is notably lower compared to its EU counterparts, with Luxembourg leading at a median annual salary of $100,000, followed by Denmark ($95,532), Germany ($86,626), and France ($61,729). This disparity highlights the economic differences within the European tech industry and underscores the financial incentives for Serbian software engineers considering employment in these EU countries. <sup>[[1](#references)][[2](#references)][[3](#references)][[4](#references)][[5](#references)]</sup>
 
 **Table 1: Salary comparison of programmers**
 
 | Country     | Monthly Salary (USD) | Annual Salary (USD) |
 |-------------|----------------------|---------------------|
-| Luxembourg  | ~8,333               | 100,000             |
-| Denmark     | ~7,961               | 95,532              |
-| Germany     | ~7,218               | 86,626              |
-| France      | ~5,144               | 61,729              |
-| Serbia      | ~4,911               | 58,932              |
+| Luxembourg  | ~8,333               | 100,000 <sup>[1](#references)</sup>              |
+| Denmark     | ~7,961               | 95,532  <sup>[2](#references)</sup>              |
+| Germany     | ~7,218               | 86,626  <sup>[3](#references)</sup>              |
+| France      | ~5,144               | 61,729  <sup>[4](#references)</sup>              |
+| Serbia      | ~4,911               | 58,932  <sup>[5](#references)</sup>              |
 
 ### Table Description
 
@@ -93,3 +95,35 @@ This section provides an overview of platforms that facilitate the connection be
     - Managed by the Erasmus Student Network, this platform connects students with internship opportunities across Europe, including non-EU residents who are part of the Erasmus+ program.
     - It offers a variety of fields, including programming, making it a valuable resource for gaining work experience in the EU.
     - For more information on internships, visit: [ErasmusIntern](https://erasmusintern.org).
+
+### For non-EU job seekers (freelancers)
+
+- **[Guru](https://www.guru.com/)**
+    - Offers a secure and flexible platform for freelancers worldwide to connect with companies, including those in the EU. 
+    - Guru supports international freelancers engaging with EU companies through customized job listings and secure payment options.
+    - For more information, visit: [Guru](https://www.guru.com/).
+
+- **[Freelancer](https://www.freelancer.com/?dfh_uid=1)**
+    - One of the largest freelance marketplaces. Freelancer connects freelance professionals with projects around the world, including programming jobs with EU companies. 
+    - Its vast user base and wide range of job postings make it a valuable platform for non-EU residents seeking opportunities within the EU.
+    - For more information, visit: [Freelancer](https://www.freelancer.com/?dfh_uid=1).
+
+- **[Working Nomads](https://www.workingnomads.com/jobs)**
+    - Specifically caters to remote workers, including programmers, looking to connect with companies globally, including those in the EU. 
+    - It lists remote job offerings, allowing non-EU residents to find opportunities with EU companies that value the flexibility and skills of remote developers.
+    - For more information, visit: [Working Nomads](https://www.workingnomads.com/jobs).
+
+- **[People Per Hour](https://www.peopleperhour.com/)**
+    - This platform enables freelancers worldwide to connect with companies for short-term or long-term projects. 
+    - It supports a diverse array of skill sets, including programming.
+    - People Per Hour encourages international freelancers to engage with EU companies, providing a pathway for non-EU residents to find programming jobs.
+    - For more information, visit: [People Per Hour](https://www.peopleperhour.com/).
+
+
+## References
+1. [Software Engineer Salary in Luxembourg](https://www.levels.fyi/t/software-engineer/locations/luxembourg)
+2. [Software Engineer Salary in Denmark](https://www.levels.fyi/t/software-engineer/locations/denmark)
+3. [Software Engineer Salary in Germany](https://www.levels.fyi/t/software-engineer/locations/germany)
+4. [Software Engineer Salary in France](https://www.levels.fyi/t/software-engineer/locations/france)
+5. [Software Engineer Salary in Serbia](https://www.levels.fyi/t/software-engineer/locations/serbia)
+
